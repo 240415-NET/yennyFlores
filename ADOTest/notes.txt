@@ -1,0 +1,19 @@
+--CREATE A DATABASE
+--CREATED A TABLE
+--INSERT DATA INTO THOSE TABLES 
+--Create connection string Files
+    Use this--Data Source=[Server_Name];Initial Catalog=[db_name];Integrated Security=False;User Id=[username];Password=[password];MultipleActiveResultSets=True;TrustServerCertificate=True;
+    save not in repo location --C:\Users\A261982\OneDrive - Government Employees Insurance Company\revature\connectionString.txt 
+	
+	*Package if I do not have it:
+	   dotnet add package System.Data.SqlClient
+	   
+	  Create ADO class and use using System.Data.SqlClient; 
+--Created an ADO class 
+    --public static string filePath = @"C:\Users\A261982\OneDrive - Government Employees Insurance Company\revature\connectionString.txt";
+
+   -- public static string connectionString = File.ReadAllText(filePath);
+
+   --Create your program to read 
+    --public static void Read(){
+	
