@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using EasyApi.Models;
 
 namespace EasyApi.Controllers;
 

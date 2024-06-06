@@ -1,4 +1,4 @@
-namespace EasyApi;
+namespace EasyApi.Models;
 
 public class WeatherForecast
 {
