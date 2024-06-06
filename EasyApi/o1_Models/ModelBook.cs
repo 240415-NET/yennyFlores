@@ -1,4 +1,5 @@
-namespace EasyApi.Models;
+namespace EasyApi.o1_Models;
+
 //Added this File
 public class Book {
     

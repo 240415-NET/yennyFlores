@@ -1,5 +1,5 @@
 
-using EasyApi.Services;
+using EasyApi.o3_Services;
 
 
 var builder = WebApplication.CreateBuilder(args);

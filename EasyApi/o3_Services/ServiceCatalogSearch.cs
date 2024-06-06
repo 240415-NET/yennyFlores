@@ -1,6 +1,7 @@
-using EasyApi.Models;
+using EasyApi.o1_Models;
 
-namespace EasyApi.Services;
+namespace EasyApi.o3_Services;
+
 //Added this entire file
 public class ServiceCatalogSearch : IServiceCatalogSearch
 {

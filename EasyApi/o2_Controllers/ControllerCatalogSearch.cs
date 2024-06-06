@@ -1,9 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
-using EasyApi.Models;
-using EasyApi.Services;
-//Added this file, created folders as well
-namespace EasyApi.Controllers;
+using EasyApi.o1_Models;
+using EasyApi.o3_Services;
 
+namespace EasyApi.o2_Controllers;
+
+//Added this file, created folders as well
 [ApiController]
 [Route("[controller]")]
 public class ControllerCatalogSearch : ControllerBase
